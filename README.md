@@ -21,6 +21,12 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 ![](https://streak-stats.demolab.com/?user=devanshurawal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devanshurawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devanshurawal/devanshurawal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devanshurawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
