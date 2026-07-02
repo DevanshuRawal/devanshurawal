@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Devanshu Rawal</h1>
+
+<h3 align="center">
+Aspiring Software Developer | Java Developer | Full Stack Learner
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+Developer;Full+Stack+Learner;Spring+Boot+%7C+DSA+%7C+React;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 # 💫 About Me:
 🔭 I'm currently working on<br>Developing high-quality Java applications and Full Stack projects.<br><br>👯 I'm looking to collaborate on<br>Open Source Software, Backend Systems, and Real-World Development Projects.<br><br>🤝 I'm looking for help with<br>Distributed Systems, Cloud Technologies, and Software Architecture.<br><br>🌱 I'm currently learning<br>DSA, Spring Boot, React, SQL, System Design, and Cloud Computing.<br><br>💬 Ask me about<br>Java, OOP, DSA, Web Development, Git, GitHub, and Software Development.<br><br>⚡ Fun fact<br>Passionate about writing clean, maintainable code and solving complex problems. My long-term goal is to become a Professional Software Engineer and contribute to products used by millions of people worldwide.
 
