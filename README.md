@@ -36,9 +36,10 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devanshurawal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshurawal&repo=Java-DSA&theme=dark)](https://github.com/devanshurawal/Java-DSA)
 
 ---
-[![](https://komarev.com/ghpvc/?username=devanshurawal&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=devanshurawal&label=Profile%20Views&color=39d353&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
