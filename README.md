@@ -37,12 +37,15 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 <p align="center">
   <img src="https://raw.githubusercontent.com/devanshurawal/devanshurawal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devanshurawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 💭 Developer Mindset
-> **"The smartest developer isn't the one who knows everything—it's the one who never stops learning."**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devanshurawal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+## 💭 Developer Mindset
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ## 📈 GitHub Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=devanshurawal&theme=github-dark)
