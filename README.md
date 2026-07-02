@@ -23,8 +23,6 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devanshurawal/devanshurawal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
@@ -36,9 +34,9 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-## 🚀 Featured Projects
+## 📈 Contribution Graph
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshurawal&repo=Java-DSA&theme=dark)](https://github.com/devanshurawal/Java-DSA)
+![](https://github-readme-activity-graph.vercel.app/graph?username=devanshurawal&theme=github-dark)
 
 ---
 ![](https://komarev.com/ghpvc/?username=devanshurawal&label=Profile%20Views&color=39d353&style=for-the-badge)
