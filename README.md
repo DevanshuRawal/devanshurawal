@@ -33,8 +33,7 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=devanshurawal&theme=github-dark)
 
