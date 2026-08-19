@@ -26,7 +26,7 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 # 📊 GitHub Stats:
 <p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=devanshurawal&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=devanshurawal&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshurawal&theme=dark&hide_border=true&ring=FF4500&fire=FF0000&currStreakNum=FF8C00&sideNums=FFD700&currStreakLabel=FF4500&sideLabels=FFD700&dates=FFA07A" />
 </p>
 
 <p align="center">
