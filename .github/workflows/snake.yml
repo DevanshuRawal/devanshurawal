@@ -16,9 +16,10 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: devanshurawal
-       outputs: |
+          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=%231e1e2e,%23800000,%23FF0000,%23FF4500,%23FFD700
+      
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
