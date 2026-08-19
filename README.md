@@ -35,7 +35,7 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devanshurawal/devanshurawal/output/github-contribution-grid-snake-dark.svg?v=27" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/devanshurawal/devanshurawal/output/github-contribution-grid-snake-bright.svg?v=27" alt="Snake animation" />
 </p>
 ## 🏆 GitHub Trophies
 
