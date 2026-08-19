@@ -41,7 +41,7 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://AAPKA-NAYA-VERCEL-LINK.vercel.app/?username=devanshurawal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://AAPKA-VERCEL-LINK.vercel.app/?username=devanshurawal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ## 💭 Developer Mindset
