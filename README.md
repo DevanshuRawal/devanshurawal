@@ -38,11 +38,13 @@ Aspiring Software Developer | Java Developer | Full Stack Learner
   <img src="https://raw.githubusercontent.com/devanshurawal/devanshurawal/output/github-contribution-grid-snake-dark.svg?v=27" alt="Snake animation" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy-seven-jet.vercel.app/?username=devanshurawal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=2" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshurawal&theme=tokyonight&v=1" alt="GitHub Activity Graph" />
 </p>
+
+---
 
 ## 💭 Developer Mindset
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
